@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb589d3-500b-4c3c-8f12-b54274bba7b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7bf4ce2572b7ec64d7f93cfb8da490a785c0d1ed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/b/7bf4ce2572b7ec64d7f93cfb8da490a785c0d1ed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common-util/common-util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/service-util/service-util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/spring-security/spring-security.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/model.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oa-parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-oa/service-oa.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/common-util/target/classes/com/kmun/common/result/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/common-util/target/classes/com/kmun/common/result/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/common-util/target/classes/com/kmun/common/result/ResultCodeEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/common-util/target/classes/com/kmun/common/result/ResultCodeEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/target/classes/com/kmun/model/base/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/model/target/classes/com/kmun/model/base/BaseEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/target/classes/com/kmun/model/system/SysRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/model/target/classes/com/kmun/model/system/SysRole.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/target/classes/com/kmun/model/system/SysUserRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/model/target/classes/com/kmun/model/system/SysUserRole.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/controller/SysRoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/controller/SysRoleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-oa/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-oa/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/ServiceAuthApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/ServiceAuthApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/controller/SysRoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/controller/SysRoleController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-oa/target/test-classes/com/kmun/auth/TestMpDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/target/test-classes/com/kmun/auth/TestMpDemo1.class" afterDir="false" />
-    </list>
+    <list default="true" id="4cb589d3-500b-4c3c-8f12-b54274bba7b6" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +67,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "Spring Boot.ServiceAuthApplication.executor": "Run",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "my",
@@ -229,6 +199,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\27762\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4cb589d3-500b-4c3c-8f12-b54274bba7b6" name="Changes" comment="" />
@@ -248,7 +221,7 @@
       <workItem from="1711092561167" duration="2952000" />
       <workItem from="1711156929053" duration="1965000" />
       <workItem from="1711779353486" duration="2716000" />
-      <workItem from="1711783568645" duration="3581000" />
+      <workItem from="1711783568645" duration="4187000" />
     </task>
     <task id="LOCAL-00001" summary="no just test">
       <option name="closed" value="true" />
@@ -274,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711158617566</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1711787283672</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711787283672</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +263,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="no just test" />
-    <option name="LAST_COMMIT_MESSAGE" value="no just test" />
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
