@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cb589d3-500b-4c3c-8f12-b54274bba7b6" name="Changes" comment="Changes" />
+    <list default="true" id="4cb589d3-500b-4c3c-8f12-b54274bba7b6" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/system/service/SysRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/system/service/impl/SysRoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d5c47509-cc58-4da5-b97a-19bd369c91e9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common-util/target/classes/com/kmun/common/result/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/common-util/target/classes/com/kmun/common/result/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common-util/target/classes/com/kmun/common/result/ResultCodeEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/common-util/target/classes/com/kmun/common/result/ResultCodeEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/com/kmun/model/base/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/model/target/classes/com/kmun/model/base/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/com/kmun/model/system/SysRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/model/target/classes/com/kmun/model/system/SysRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/com/kmun/model/system/SysUserRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/model/target/classes/com/kmun/model/system/SysUserRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/ServiceAuthApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/ServiceAuthApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/controller/SysRoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/system/controller/SysRoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/mapper/SysRoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/system/mapper/SysRoleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/service/SysRoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/src/main/java/com/kmun/auth/service/impl/SysRoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/src/test/java/com/kmun/auth/TestMpDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/src/test/java/com/kmun/auth/TestMpDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/src/test/java/com/kmun/auth/TestMpDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/src/test/java/com/kmun/auth/TestMpDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-oa/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/ServiceAuthApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/controller/SysRoleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/mapper/SysRoleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/service/SysRoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-oa/target/classes/com/kmun/auth/service/impl/SysRoleServiceImpl.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +41,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -26,7 +54,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="my" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,10 +98,10 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "Spring Boot.ServiceAuthApplication.executor": "Run",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "my",
+    "git-widget-placeholder": "my0.1",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/虚拟机/6、SpringBoot3+Vue3全套教程/04_代码/后端代码/spring-code/oa-parent/model/src/main/resources",
+    "last_opened_file_path": "D:/project/oa-parent/model/src/main/java/com/kmun/model/system",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,7 +121,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\oa-parent\model\src\main\java\com\kmun\model\system" />
+      <recent name="D:\project\oa-parent\model\src\main\java\com\kmun\vo\system" />
+      <recent name="D:\project\oa-parent\model\src\main\java\com\kmun\vo" />
+      <recent name="D:\project\oa-parent\service-oa\src\main\java\com\kmun\system" />
       <recent name="E:\虚拟机\6、SpringBoot3+Vue3全套教程\04_代码\后端代码\spring-code\oa-parent\model\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kmun" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kmun.common.result" />
@@ -103,12 +138,12 @@
       <recent name="com.kmun.model.system" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestExceptionDemo.exceptionTest">
+  <component name="RunManager" selected="Spring Boot.ServiceAuthApplication">
     <configuration name="TestExceptionDemo.exceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="service-oa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kmun.auth.*" />
+          <option name="PATTERN" value="com.kmun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,7 +159,7 @@
       <module name="service-oa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kmun.auth.*" />
+          <option name="PATTERN" value="com.kmun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,7 +175,7 @@
       <module name="service-oa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kmun.auth.*" />
+          <option name="PATTERN" value="com.kmun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,7 +191,7 @@
       <module name="service-oa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kmun.auth.*" />
+          <option name="PATTERN" value="com.kmun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,10 +205,10 @@
     </configuration>
     <configuration name="ServiceAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="service-oa" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kmun.auth.ServiceAuthApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kmun.ServiceAuthApplication" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kmun.auth.*" />
+          <option name="PATTERN" value="com.kmun.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,18 +218,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestExceptionDemo.exceptionTest" />
         <item itemvalue="Spring Boot.ServiceAuthApplication" />
-        <item itemvalue="JUnit.TestMpDemo1.getAll" />
         <item itemvalue="JUnit.TestMpDemo2.testSelectList" />
         <item itemvalue="JUnit.TestMpDemo2.getAll" />
+        <item itemvalue="JUnit.TestMpDemo1.getAll" />
+        <item itemvalue="JUnit.TestExceptionDemo.exceptionTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-1.8.0_392-corretto-1.8.0_392-3183f394aec4-cb300fc7" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
       </set>
     </attachedChunks>
   </component>
@@ -222,6 +258,21 @@
       <workItem from="1711156929053" duration="1965000" />
       <workItem from="1711779353486" duration="2716000" />
       <workItem from="1711783568645" duration="4187000" />
+      <workItem from="1711978323079" duration="1000" />
+      <workItem from="1712474695909" duration="1353000" />
+      <workItem from="1712797017667" duration="1000" />
+      <workItem from="1712907018754" duration="668000" />
+      <workItem from="1712908826171" duration="19000" />
+      <workItem from="1712909461319" duration="13000" />
+      <workItem from="1712990162705" duration="740000" />
+      <workItem from="1713517615617" duration="594000" />
+      <workItem from="1713518360198" duration="46000" />
+      <workItem from="1713594277830" duration="1636000" />
+      <workItem from="1714195936072" duration="861000" />
+      <workItem from="1716011037623" duration="1730000" />
+      <workItem from="1716020396557" duration="14000" />
+      <workItem from="1716615123495" duration="1810000" />
+      <workItem from="1716616961188" duration="4493000" />
     </task>
     <task id="LOCAL-00001" summary="no just test">
       <option name="closed" value="true" />

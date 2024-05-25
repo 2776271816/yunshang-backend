@@ -1,4 +1,4 @@
-package com.kmun.auth.mapper;
+package com.kmun.system.mapper;
 
 import com.kmun.model.system.SysRole;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
